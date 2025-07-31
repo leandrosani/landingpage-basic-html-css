@@ -11,5 +11,5 @@ CSS
 ##Demonstração
 Você pode visitar a landing page por aqui:
 
-**[Acessar o carrossel com botões](https://leandrosani.github.io/landingpage-basic-html-css/index.html)**
+**[Acessar Landing Page Basic](https://leandrosani.github.io/landingpage-basic-html-css/index.html)**
 
